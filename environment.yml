@@ -1,0 +1,25 @@
+name: cyp450-gnn
+channels:
+  - pytorch
+  - pyg
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - pytorch>=1.12.0
+  - pytorch-geometric
+  - rdkit
+  - numpy
+  - pandas
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - jupyter
+  - pip
+  - pip:
+    - transformers
+    - xgboost
+    - fair-esm
+    - hyperopt
+    - wandb
+    - tensorboard
