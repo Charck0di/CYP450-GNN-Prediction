@@ -20,7 +20,7 @@ A comprehensive framework for predicting and generating Cytochrome P450 (CYP450)
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/CYP450-GNN-Prediction.git
+git clone https://github.com/Charck0di/CYP450-GNN-Prediction.git
 cd CYP450-GNN-Prediction
 
 # Install dependencies
